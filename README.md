@@ -556,6 +556,7 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAPPS.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [iExec](https://iex.ec) | Platform to Build, Own, and Monetize in Web3, with decentralized protocol ensuring control over ownership, privacy, and monetization of data and digital assets. | ([GitHub](https://github.com/iExecBlockchainComputing)) | live | - | - |
 | [Skiff](https://skiff.com) | Web3 email, drive, and docs | ([GitHub](https://github.com/skiff-org) | live | - | [known](https://skiff.com/about-us) |
 | [2FA Guru](https://www.2fa.guru) | a simple solution to interact with DApps by enforcing an additional signature check before each transaction | ([GitHub](https://github.com/skiff-org/skiff-mail)) | - | - | - |
 | [Skiff Pages](https://skiff.com/pages) | Private, End-to-End Encrypted Notes | ([GitHub](https://github.com/skiff-org)) | - | - | - |
